@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Paras172006/Leetcode-Submission/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Paras172006/Leetcode-Submission/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
