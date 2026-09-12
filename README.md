@@ -10,4 +10,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Paras172006/Leetcode-Submission/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Paras172006/Leetcode-Submission/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Paras172006/Leetcode-Submission/tree/master/1683-invalid-tweets) |
+## Depth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
