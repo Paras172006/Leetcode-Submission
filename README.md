@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
+## Array
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
