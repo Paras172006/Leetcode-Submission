@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [1004-max-consecutive-ones-iii](https://github.com/Paras172006/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Paras172006/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
