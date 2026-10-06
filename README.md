@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Paras172006/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0090-subsets-ii) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
@@ -63,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Paras172006/Leetcode-Submission/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Paras172006/Leetcode-Submission/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Paras172006/Leetcode-Submission/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Paras172006/Leetcode-Submission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
