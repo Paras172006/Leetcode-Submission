@@ -29,6 +29,6 @@ public:
             cnt++;
             st.pop();
         }
-        return abs(cnt);
+        return cnt;
     }
 };
