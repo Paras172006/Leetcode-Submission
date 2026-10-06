@@ -8,7 +8,7 @@ public:
         while(i<n){
             if(s[i] == '('){
                 st.push('(');
-                i++;
+               
                 
             }
             else{
@@ -18,12 +18,13 @@ public:
                      cnt++;
                      i++;
                 }
+                continue;
                }else{
                 st.pop();
-                i++;
+                // i++;
                }
             }
-            // i++;
+             i++;
         }
         while(!st.empty()){
             cnt++;
