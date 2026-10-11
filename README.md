@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Paras172006/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Paras172006/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Paras172006/Leetcode-Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Paras172006/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Paras172006/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Paras172006/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Paras172006/Leetcode-Submission/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Paras172006/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Paras172006/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Paras172006/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
