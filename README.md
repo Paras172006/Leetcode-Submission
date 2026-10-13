@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Paras172006/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Paras172006/Leetcode-Submission/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Paras172006/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Paras172006/Leetcode-Submission/tree/master/1004-max-consecutive-ones-iii) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
@@ -145,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
