@@ -1,39 +1,31 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image, int sr, int sc, 
-             int originalColor, int color) {
-        
-        // Boundary check
-        if (sr < 0 || sr >= image.size() ||
-            sc < 0 || sc >= image[0].size()) {
-            return;
-        }
-
-        // Only change cells having original color
-        if (image[sr][sc] != originalColor) {
-            return;
-        }
-
+    vector<vector<int>> floodFill(vector<vector<int>>& imag, int sr, int sc, int color) {
+        vector<vector<int>> image = imag;
+        int ocolor = image[sr][sc];
+        if (ocolor == color) return image;
+        queue<pair<int,int>> q;
+        q.push({sr,sc});
         image[sr][sc] = color;
-
-        dfs(image, sr + 1, sc, originalColor, color);
-        dfs(image, sr - 1, sc, originalColor, color);
-        dfs(image, sr, sc + 1, originalColor, color);
-        dfs(image, sr, sc - 1, originalColor, color);
-    }
-
-    vector<vector<int>> floodFill(vector<vector<int>>& image, 
-                                   int sr, int sc, int color) {
-        
-        int originalColor = image[sr][sc];
-
-        // If both colors are same, avoid infinite recursion
-        if (originalColor == color) {
-            return image;
+       int dx[] = {1,-1,0,0};
+       int dy[] = {0,0,-1,1};
+        while(!q.empty()){
+            auto [x,y] = q.front();
+            q.pop();
+           for(int i = 0;i<4;i++){
+            int nx = x+dx[i];
+            int ny = y+dy[i];
+            if(nx < 0 || ny < 0 || nx >= image.size() || ny >= image[0].size()){
+                continue;
+            }
+            if(image[nx][ny] != ocolor){
+                continue;
+            }
+            image[nx][ny] = color;
+            q.push({nx,ny});
+           }
         }
 
-        dfs(image, sr, sc, originalColor, color);
-
-        return image;
-    }
+           return image;
+        }
 };
