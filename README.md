@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Paras172006/Leetcode-Submission/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Paras172006/Leetcode-Submission/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Paras172006/Leetcode-Submission/tree/master/0994-rotting-oranges) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paras172006/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Paras172006/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
+| [0542-01-matrix](https://github.com/Paras172006/Leetcode-Submission/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Paras172006/Leetcode-Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Paras172006/Leetcode-Submission/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Paras172006/Leetcode-Submission/tree/master/0994-rotting-oranges) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Paras172006/Leetcode-Submission/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
