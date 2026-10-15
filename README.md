@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Paras172006/Leetcode-Submission/tree/master/0733-flood-fill) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Paras172006/Leetcode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Paras172006/Leetcode-Submission/tree/master/0994-rotting-oranges) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Paras172006/Leetcode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Paras172006/Leetcode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Paras172006/Leetcode-Submission/tree/master/0133-clone-graph) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paras172006/Leetcode-Submission/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Paras172006/Leetcode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Paras172006/Leetcode-Submission/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Paras172006/Leetcode-Submission/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Paras172006/Leetcode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
